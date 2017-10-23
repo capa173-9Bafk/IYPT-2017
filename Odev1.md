@@ -7,15 +7,40 @@ Sınıf | Öğrenci İsmi  | Numara
 11-D   | Ahmet Çalışkan | 412
 11-D   | Ceyda Cesaretli | 111
 
-#  (buraya proje başlığını yazınız)
+#  WET AND DARK
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+ 
+
+Ödev için seçtiğimiz soru 2015 yılının 16.sorusu 'Wet and dark' sorusudur.Soruda:'Giysiler ıslandığında koyu renkte görünebilir veya renk değiştirebilir' olgusunu araştırmamız isteniyor.Bu soruyu seçmemizin sebepleri şunlardır:
+1.Suda hiçbir renk bulunmamasına rağmen giysi üzerin döküldüğünde giysinin neden renk değiştirdiğini merak etmemiz
+2.Deney malzemelerinin kolay bulunabilir ve elde edilebilir olmasından dolayı
+3.Seçtiğimiz sorunun son 5 yıl içinden olmasını istedik çünkü güncel makaleler ve raporları inceleyerek daha doğru bir makale oluşturabileceğimizi düşündük
+     Öncelikle deney için merak ettiğimiz soruları,olguları,sebepleri ve nasıl yapabileceğimizi İnternetten ve kaynaklardan araştıracağız .Araştırmamızda bilmediğimiz fizik terimleri olursa bunu TDK ve diğer sitelerden araştıracağız  sonra deney için gerekli bilgileri araştırdıktan sonra gerekli malzeme listesini yapacağız . Tahminimizce  bu malzemeler 2 tişört, bir miktar su ve bir kap olacaktır.Ardından malzemeleri temin ettikten sonra deneyi yapacağımız ortamı ayarlayıp deneyi yapacağız.Deney sonucundan geçekleşen olgu ve olayları rapor edip not alacağız.Sorunun IYPT tarafından yayımlanan çözümlerini,makalelerini,raporların ve deneylerini inceleyerek bu nedenin sonucunu ve olgunun nedenini bulacağız.Bu süreç sonucunda en doğru sonuca en doğru makaleye ve raporu çıkarabileceğiz. Takım çalışması ve planlı bir çalışma sonunda ödevde başaralı olabileceğimizi düşünüyorum
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Grushetsky, N  Mukhina, M  Shamanov, E. (2015)"Wet and Dark".IYPT.
+ http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf 
+ 
+ 2. Bergamaschi,T. (2015) "Wet and Dark".IYPT.
+http://solutions.iypt.org/uploads/2015_BR_Wet_and_dark_Thiago_Bergamaschi_1441148026.pptx
 
+ 3.https://physics.stackexchange.com/questions/30366/why-do-wet-objects-become-darker
+
+ 4.https://physics.stackexchange.com/questions/163167/experiments-to-the-question-why-wet-is-dark
+ 
+ 5.http://www.abc.net.au/science/articles/2010/11/11/3063513.htm
+ 
+ 6.http://bilimseli.com/islaksa-daha-koyu/
+ 
+ 7.http://www.tdk.gov.tr/
+
+ 8.https://van.physics.illinois.edu/qa/listing.php?id=21080
+  
+ 9.http://www.abc.net.au/science/k2/homework/s95587.htm
+
+ 10.https://www.scienceabc.com/eyeopeners/why-do-clothes-appear-darker-when-they-get-wet.html
+ 
+ 11.https://www.quora.com/Why-do-clothes-get-dark-when-they-get-wet
+
+ 12.https://www.physicsforums.com/threads/why-do-wet-clothes-look-darker.725768/
